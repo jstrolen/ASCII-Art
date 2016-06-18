@@ -1,4 +1,4 @@
-~ ASCII Art
+# ASCII Art
 
 Converts image into ASCII
 
